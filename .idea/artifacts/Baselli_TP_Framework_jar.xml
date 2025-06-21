@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="Baselli_TP_Framework:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Baselli_TP_Framework_jar</output-path>
+    <root id="root">
+      <element id="archive" name="framework-v1.0.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/out/artifacts/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="Baselli_TP_Framework" />
+      </element>
+    </root>
+  </artifact>
+</component>
